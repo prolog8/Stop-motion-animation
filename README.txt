@@ -1,12 +1,19 @@
-�ϥ� Word �s�@�w��ʵe
+***********************************
+簡易製作定格動畫
+***********************************
 
-��h���I�����Ϲ�(Sprite)��m�bWord�A�ϥ�Word�ե��t�B�j�p�B����B���� Sprite
+STEP 1)
+拍攝原圖，並用 paint.net 去除背景
+
+技巧:使用 paint.net 處理去除背景，如角色有黑色邊，會較容易讓 paint.net 分別背景
+
+STEP  2)
+把去除背景的圖(Sprite)放置在Word等軟件，組合各種動畫動作
+
+技巧:因 Word 等文書處理軟件，附有一些易用工具，有容易調整Sprite：光暗、大小、旋轉、反轉
+
+STEP 3)
+使用 crop.exe 直接取得畫面的指定區域及順序存檔。
 
 
-�ޥ�:
-�ϥ� paint.net �B�z�h���I���A�p���⦳�¦���A�|���e���� paint.net ���O�I��
-
-
-
-�ޥ�:
-�ϥ� crop.exe�ACapture Screen �Φs�ɡC
+更新: 22-08-2020
